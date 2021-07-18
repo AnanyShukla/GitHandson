@@ -18,6 +18,7 @@ import junit.framework.Assert;
 
 public class StepDefinition {
 	public static WebDriver driver;
+	//Comment added
 	@Before
 	public void invokeBrowser() {
 		System.setProperty("webdriver.chrome.driver", "./driver/chromedriver.exe");
