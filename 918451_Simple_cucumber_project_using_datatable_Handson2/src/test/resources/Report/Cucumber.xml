@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="11.681831">
+<testcase classname="To Verify Valid Registration on Basic Contact Form" name="Registration with valid data" time="11.681831">
+<system-out><![CDATA[Given User is on Basic Contact Form Page....................................passed
+When User clicks on click here link.........................................passed
+And User enters valid name and email........................................passed
+And User fill other details.................................................passed
+Then User clicks the Submit button..........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
